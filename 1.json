@@ -1,0 +1,49 @@
+{
+  "name": "one",
+  "description": "This is one nft",
+  "external_url": "www.baidu.com", 
+  "image": "https://pic2.zhimg.com/80/c07346aa70509a965d7b2f897db05095_1440w.jpg?source=1940ef5c",
+  "attributes": [
+    {
+      "trait_type": "性格",
+      "value": "内向 腼腆"
+    },
+    {
+      "trait_type": "智商",
+      "value": "普通"
+    },
+    {
+      "trait_type": "颜值",
+      "value": "好看"
+    },
+    {
+      "trait_type": "爱好",
+      "value": "看书"
+    },
+    {
+      "trait_type": "发型",
+      "value": "黑色"
+    },
+    {
+      "trait_type": "油管等级",
+      "value": 5
+    },
+    {
+      "trait_type": "靠谱值",
+      "value": 99
+    },
+    {
+      "display_type":"boost_number",
+      "trait_type": "努力值",
+      "value": 5,
+      "max_value":100
+    },
+    {
+      "display_type":"luck_number",
+      "trait_type": "幸运值",
+      "value": 99,
+      "max_value":100
+    }
+  ],
+  "compiler": "HGY DAO Art "
+}
